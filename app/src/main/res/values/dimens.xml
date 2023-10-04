@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="marginStart">40dp</dimen>
+    <dimen name="paddingNumbers">15dp</dimen>
+    <dimen name="sizeButtonCircle">50dp</dimen>
+</resources>
